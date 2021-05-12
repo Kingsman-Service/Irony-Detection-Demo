@@ -1,4 +1,4 @@
-# Irony-Detection-Demo
+# Irony-Detector
 
 The model is described in this paper:
 https://ieeexplore.ieee.org/abstract/document/9392711
